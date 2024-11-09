@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730781901 source:c:\users\power\desktop\c_labs\last_day\emp_line\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+

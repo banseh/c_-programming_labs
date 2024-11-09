@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730813776 source:c:\users\power\desktop\c_labs\line_editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

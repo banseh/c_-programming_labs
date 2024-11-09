@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730313219 source:c:\users\power\desktop\c_labs\bouns\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

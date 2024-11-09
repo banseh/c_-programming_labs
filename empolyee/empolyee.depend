@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730288816 source:c:\users\power\desktop\c_labs\empolyee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

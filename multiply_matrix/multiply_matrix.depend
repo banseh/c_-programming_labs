@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730208253 source:c:\users\power\desktop\c_labs\multiply_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

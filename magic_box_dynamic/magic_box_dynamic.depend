@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730114704 source:c:\users\power\desktop\c_labs\magic_box_dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

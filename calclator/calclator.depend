@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730115868 source:c:\users\power\desktop\c_labs\calclator\main.c
+	<stdio.h>
+	<stdlib.h>
+

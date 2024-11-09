@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730195907 source:c:\users\power\desktop\c_labs\array15places\main.c
+	<stdio.h>
+	<stdlib.h>
+
